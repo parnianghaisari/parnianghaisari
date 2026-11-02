@@ -27,7 +27,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Engineering undergraduate at Isfahan University of Technology.
+- 🎓 Computer Engineering undergraduate student.
 - 🤖 Interested in Machine Learning, Deep Learning, and Graph Neural Networks.
 - 🔍 Exploring data-driven methods, recommender systems, and digital twins.
 - 💻 Experienced in C++, Python, C#, and software development.
@@ -81,8 +81,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=parnianghaisari&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
----
-
-<p align="center">
-  <i>Learning, building, and improving one commit at a time. ✨</i>
-</p>
