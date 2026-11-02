@@ -56,24 +56,6 @@
 - **Zombie vs. Plants**  
   A C++ and Qt game exploring object-oriented programming, event-driven design, multithreading, and socket programming.
 
----
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=parnianghaisari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parnianghaisari&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parnianghaisari&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parnianghaisari&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
-</p>
 
