@@ -5,11 +5,7 @@
   Computer Engineering Student | Machine Learning & Software Development
 </h3>
 
-<p align="center">
-  <a href="https://github.com/parnianghaisari">
-    <img src="https://komarev.com/ghpvc/?username=parnianghaisari&style=flat-square&color=00C9C8" alt="Profile views"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/parnianghaisari">
