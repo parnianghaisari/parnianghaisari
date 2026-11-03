@@ -58,5 +58,9 @@
   A C++ and Qt game exploring object-oriented programming, event-driven design, multithreading, and socket programming.
 
 
+- **TCP-over-UDP: Reliable Data Transfer**  
+  Implemented a TCP-like reliable data transfer protocol over UDP in Python, featuring acknowledgments (ACKs), retransmissions, cumulative acknowledgments, and fast retransmit. Developed a basic AIMD congestion control mechanism and network simulation to evaluate protocol behavior under packet loss and out-of-order packet delivery.
+
+
 
 
